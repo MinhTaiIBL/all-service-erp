@@ -1,4 +1,2 @@
 
-Nguyen Minh Tai
-
-123
+Nguyen Minh Tai: Dang hoc react js and Node js
